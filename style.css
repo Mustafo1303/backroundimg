@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: url(image\ 5.png) no-repeat center/cover; 
+    height: 100vh;
+    
+}
+.img1{
+    background-color: black;
+    height: 80px;
+    margin-top: -1px;
+}
+.img2{
+    margin-left: 1027px;
+    margin-top: -50px;
+}
+.english{
+   font-family:  "Inter", sans-serif; 
+   color: white;
+   margin-left: 1160px;
+   margin-top: -30px;
+}
+.Polygon{
+position: absolute;
+width: 20px;
+height: 20px;
+margin-left: 11px;
+margin-top: 1px;
+color: white;
+background-color: white;
+transform: rotate(-180deg);
+
+}
+.now{
+    width: 192px;
+height: 72px;
+margin-left: 1291px;
+margin-top: -75px;
+background-color: #F1A900;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+}
+.now1{
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.menu{
+    background-color: #222222;
+    height: 50px;
+    font-family: "Inter", sans-serif;
+    color: white;
+   
+}
+.info{
+  color: white;
+  margin-left: 200px;
+  text-align: start;
+}
+.news{
+   margin-left: 600px;
+   margin-top: -17px;
+}
+.media{
+    align-items: center;
+    margin-left: 900px;
+    margin-top: -15px;
+}
+.community{
+    margin-left: 1150px;
+    margin-top: -17px;
+}
+.support{
+    margin-left: 1400px;
+    margin-top: -19px;
+}
+.pc{
+    background-color: #F1A900;
+    width: 190px;
+height: 60px;
+margin-top: 275px;
+margin-left: 423px;
+font-family: "Inter", sans-serif;
+font-size: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.console{
+    background-color: black;
+    width: 190px;
+    height: 60px;
+    margin-top: -55px;
+    margin-left: 823px;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.classic{
+    width: 422px;
+height: 100px;
+margin-top: 180px;
+margin-left: 585px;
+background: #F1A90054;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: "Inter", sans-serif;
+color: white;
+font-size: 19px;
+}
+.picture{
+    margin-left: 1300px;
+}
